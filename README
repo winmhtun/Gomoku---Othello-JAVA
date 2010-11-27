@@ -1,0 +1,16 @@
+Brief description about this assignment 
+----------------------------------------
+
+Othello (also known as Reversi), is a board game played by two players on a board with 8 rows and 8 columns, and a set of distinct pieces for each player. The player’s goal is to have a majority of his pieces showing at the end of the game.
+
+ 
+
+The game begins with four pieces placed in a square in the middle of the grid, two from each players. The player representing the dark pieces makes the first move. The player can only place a dark piece on the board, in such a position that there exists one straight (horizontal, vertical or diagonal) occupied line between the new dark piece and another dark piece, with one or more contiguous white pieces between them. After placing the new dark piece, the player can ‘capture’ all the white pieces that are lying on a straight line between the new dark piece and any anchoring dark pieces, by replacing them with dark pieces. The same rule applies for the player representing the white pieces.
+
+*****************************************
+
+
+
+Please feel free to drop any questions regarding to this project @ ljukang@gmail.com 
+
+
